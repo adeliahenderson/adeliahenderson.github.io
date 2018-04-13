@@ -2,7 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23af1ace-3be7-40a5-846a-e4af7a3f12bf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/adelia/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-fullwidth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-left-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-right-sidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/maps/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about/about-company.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/about/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/author/about.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/author/author-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/author/author.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avater-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avater-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/avater.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/post-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/post-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/blog/post-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/logo-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/logo-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/logo-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/logo-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/clients/logo-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/i_next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/i_prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/map-marker.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/quotes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/icons/right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/item-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/item-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/item-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/item-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/item-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/item-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/portfolio/post-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/slider.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/team/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/animate-css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/facncybox/jquery.fancybox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/facncybox/jquery.fancybox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/form-validation/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/form-validation/jquery.validate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/ionicons/fonts/ionicons.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/ionicons/fonts/ionicons.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/ionicons/fonts/ionicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/ionicons/fonts/ionicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/ionicons/ionicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/jQurey/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/modernizr/modernizr-2.6.2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/owl-carousel/owl.carousel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/owl-carousel/owl.carousel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/owl-carousel/owl.theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slider/slider.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/slider/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plugins/wow-js/wow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single-post.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +88,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="681">
-              <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+            <state>
+              <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/adelia/contact.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="gallery.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/adelia/gallery.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3300">
+              <caret line="220" column="33" selection-start-line="220" selection-start-column="33" selection-end-line="220" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -27,7 +116,12 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>css</find>
+      <find>timer-free-1</find>
+      <find>timer</find>
     </findStrings>
+    <replaceStrings>
+      <replace>adelia</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -37,6 +131,8 @@
       <list>
         <option value="$PROJECT_DIR$/timer-free-1/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/adelia/contact.html" />
+        <option value="$PROJECT_DIR$/adelia/gallery.html" />
       </list>
     </option>
   </component>
@@ -68,6 +164,11 @@
               <item name="adeliahenderson.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeliahenderson.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="adeliahenderson.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeliahenderson.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="adelia" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -82,6 +183,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/adelia" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -111,7 +213,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="83" y="83" width="1260" height="736" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -123,6 +224,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -133,7 +235,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,12 +304,25 @@
         <state relative-caret-position="-490" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/adelia/gallery.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="681">
-          <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
+        <state relative-caret-position="3300">
+          <caret line="220" column="33" selection-start-line="220" selection-start-column="33" selection-end-line="220" selection-end-column="33" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adelia/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" lean-forward="true" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/adelia/contact.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
