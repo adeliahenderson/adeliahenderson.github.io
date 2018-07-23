@@ -18,8 +18,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="86" column="14" lean-forward="true" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+            <state relative-caret-position="-62">
+              <caret line="68" column="202" selection-start-line="68" selection-start-column="202" selection-end-line="68" selection-end-column="202" />
             </state>
           </provider>
         </entry>
@@ -27,8 +27,8 @@
       <file leaf-file-name="creative.min.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -36,8 +36,8 @@
       <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="184" column="18" selection-start-line="184" selection-start-column="16" selection-end-line="184" selection-end-column="18" />
+            <state relative-caret-position="-1179">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -78,8 +78,8 @@
         <option value="$PROJECT_DIR$/adelia/contact.html" />
         <option value="$PROJECT_DIR$/adelia/gallery.html" />
         <option value="$PROJECT_DIR$/adelia/about.html" />
-        <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.css" />
         <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/custom.css" />
+        <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.css" />
         <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
@@ -97,8 +97,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
-    <option name="y" value="40" />
+    <option name="x" value="89" />
+    <option name="y" value="100" />
     <option name="width" value="1260" />
     <option name="height" value="736" />
   </component>
@@ -183,7 +183,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="48" y="40" width="1260" height="736" extended-state="0" />
+    <frame x="89" y="100" width="1260" height="736" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -311,24 +311,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.min.css">
+    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+        <state relative-caret-position="-1179">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.css">
+    <entry file="file://$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="184" column="18" selection-start-line="184" selection-start-column="16" selection-end-line="184" selection-end-column="18" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="86" column="14" lean-forward="true" selection-start-line="86" selection-start-column="14" selection-end-line="86" selection-end-column="14" />
+        <state relative-caret-position="-62">
+          <caret line="68" column="202" selection-start-line="68" selection-start-column="202" selection-end-line="68" selection-end-column="202" />
         </state>
       </provider>
     </entry>
