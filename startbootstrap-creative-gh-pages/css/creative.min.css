@@ -12,3 +12,16 @@ header.masthead {
 }
 
 
+a:hover {
+  color: #2F69F0;
+}
+
+hr {
+  max-width: 70px;
+  border-width: 5px;
+  border-color: #2F69F0;
+}
+
+.bg-primary {
+  background-color: #28689c !important;
+}
