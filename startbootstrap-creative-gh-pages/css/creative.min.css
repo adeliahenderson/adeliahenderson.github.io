@@ -25,3 +25,7 @@ hr {
 .bg-primary {
   background-color: #28689c !important;
 }
+
+.img_container, .img_container2 {
+    text-align: center;
+}
