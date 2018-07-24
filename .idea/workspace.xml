@@ -16,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="224" column="16" lean-forward="true" selection-start-line="211" selection-start-column="10" selection-end-line="224" selection-end-column="16" />
+            <state relative-caret-position="458">
+              <caret line="205" column="98" selection-start-line="205" selection-start-column="98" selection-end-line="205" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -106,9 +106,9 @@
       <path value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="23" />
-    <option name="y" value="83" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="72" />
+    <option name="y" value="112" />
     <option name="width" value="1260" />
     <option name="height" value="736" />
   </component>
@@ -207,7 +207,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="23" y="83" width="1260" height="736" extended-state="0" />
+    <frame x="72" y="112" width="1260" height="736" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -361,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="224" column="16" lean-forward="true" selection-start-line="211" selection-start-column="10" selection-end-line="224" selection-end-column="16" />
+        <state relative-caret-position="458">
+          <caret line="205" column="98" selection-start-line="205" selection-start-column="98" selection-end-line="205" selection-end-column="98" />
         </state>
       </provider>
     </entry>
