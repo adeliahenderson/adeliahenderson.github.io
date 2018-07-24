@@ -29,4 +29,27 @@ hr {
 .img_container, .img_container2 {
     text-align: center;
 }
-<a href="http://mercercluster.com/23716/lifestyle/how-to-enjoy-the-2018-cherry-blossom-festival-on-a-budget/> <img src="startbootstrap-creative-gh-pages/img/portfolio/thumbnails/theCluster.png"ENjoy"
+
+.fa-linkedin {
+  color: #2F69F0;
+}
+
+.fa-envelope-o {
+  color: #2F69F0;
+}
+
+.fa-phone {
+  color: #2F69F0;
+}
+
+  ::selection {
+  color: #fff;
+  background: #2F69F0;
+  text-shadow: none;
+}
+
+::-moz-selection {
+  color: #fff;
+  background: #2F69F0;
+  text-shadow: none;
+}
