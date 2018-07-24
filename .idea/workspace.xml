@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23af1ace-3be7-40a5-846a-e4af7a3f12bf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="149" column="34" selection-start-line="149" selection-start-column="34" selection-end-line="149" selection-end-column="34" />
+            <state relative-caret-position="400">
+              <caret line="224" column="16" lean-forward="true" selection-start-line="211" selection-start-column="10" selection-end-line="224" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -107,7 +106,7 @@
       <path value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="23" />
     <option name="y" value="83" />
     <option name="width" value="1260" />
@@ -362,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="149" column="34" selection-start-line="149" selection-start-column="34" selection-end-line="149" selection-end-column="34" />
+        <state relative-caret-position="400">
+          <caret line="224" column="16" lean-forward="true" selection-start-line="211" selection-start-column="10" selection-end-line="224" selection-end-column="16" />
         </state>
       </provider>
     </entry>
