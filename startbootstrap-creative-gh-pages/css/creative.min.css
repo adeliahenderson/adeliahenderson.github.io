@@ -13,17 +13,17 @@ header.masthead {
 
 
 a:hover {
-  color: #2F69F0;
+  color: #28689c;
 }
 
 hr {
   max-width: 70px;
   border-width: 5px;
-  border-color: #2F69F0;
+  border-color: #386798;
 }
 
 .bg-primary {
-  background-color: #28689c !important;
+  background-color: #386798 !important;
 }
 
 .img_container, .img_container2 {
@@ -31,34 +31,51 @@ hr {
 }
 
 .fa-linkedin {
-  color: #2F69F0;
+  color: #F05F40;
 }
 
 .fa-envelope-o {
-  color: #2F69F0;
+  color: #F05F40;
 }
 
 .fa-phone-square {
-  color: #2F69F0;
+  color: #F05F40;
 }
 
   ::selection {
   color: #fff;
-  background: #2F69F0;
+  background: #386798;
   text-shadow: none;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #2F69F0;
+  background: #386798;
   text-shadow: none;
 }
 
 i:hover {
-  color: #F05F40;
+  color: #93979c;
 }
 
 button {
   margin: 20px;
-
 }
+
+.bg-dark {
+  background-color: #386798 !important;
+}
+
+.btn-lg:hover, .btn-lg:focus, .btn-lg:active {
+  color: #fff;
+  background-color: #93979c !important;
+}
+
+.btn-lg{
+  opacity: 0.9;
+}
+
+ #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
+  #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
+    color: #93979c;
+  }
