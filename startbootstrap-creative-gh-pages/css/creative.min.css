@@ -38,7 +38,7 @@ hr {
   color: #2F69F0;
 }
 
-.fa-phone {
+.fa-phone-square {
   color: #2F69F0;
 }
 
@@ -52,4 +52,9 @@ hr {
   color: #fff;
   background: #2F69F0;
   text-shadow: none;
+}
+
+
+i:hover {
+  color: #F05F40;
 }
