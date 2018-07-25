@@ -60,7 +60,7 @@
       <find>timer-free-1</find>
       <find>timer</find>
       <find>logo.png</find>
-      <find>timer agency template</find>
+      <find />
       <find>favicon.ico</find>
       <find>favicon.png</find>
       <find>adelia.png</find>
@@ -81,7 +81,7 @@
     <replaceStrings>
       <replace>adelia</replace>
       <replace>adelia.png</replace>
-      <replace>Adelia A. Henderson</replace>
+      <replace />
       <replace>favicon.png</replace>
       <replace>favicon.ico</replace>
     </replaceStrings>
