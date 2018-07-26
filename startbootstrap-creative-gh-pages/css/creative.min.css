@@ -72,10 +72,13 @@ button {
 }
 
 .btn-lg{
+display: table; margin: 0 auto;
   opacity: 0.9;
 }
 
- #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
-  #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
-    color: #93979c;
-  }
+
+
+
+
+
+
