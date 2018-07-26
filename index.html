@@ -29,7 +29,10 @@
   </head>
 
   <body id="page-top">
-
+<!--CSS Spinner-->
+<div class="spinner-wrapper">
+<div class="spinner"></div>
+</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
@@ -379,6 +382,21 @@
     <!-- Custom scripts for this template -->
     <script src="startbootstrap-creative-gh-pages/js/creative.min.js"></script>
 
-        </div> </body>
+        </div>
+  <script>
+$(document).ready(function() {
+//Preloader
+$(window).on("load", function() {
+preloaderFadeOutTime = 500;
+function hidePreloader() {
+var preloader = $('.spinner-wrapper');
+preloader.fadeOut(preloaderFadeOutTime);
+}
+hidePreloader();
+});
+});
+</script>
+
+  </body>
 
 </html>
