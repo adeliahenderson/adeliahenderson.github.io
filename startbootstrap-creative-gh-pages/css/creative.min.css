@@ -68,7 +68,7 @@ button {
 
 .btn-lg:hover, .btn-lg:focus, .btn-lg:active {
   color: #fff;
-  background-color: #93979c !important;
+  background-color: #386798 !important;
 }
 
 .btn-lg{
@@ -77,7 +77,10 @@ display: table; margin: 0 auto;
 }
 
 
-
+ #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
+  #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus {
+    color: #93979c;
+  }
 
 
 
