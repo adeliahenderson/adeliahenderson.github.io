@@ -13,7 +13,7 @@ header.masthead {
 
 
 a:hover {
-  color: #28689c;
+  color: #93979c;
 }
 
 hr {
@@ -144,3 +144,4 @@ z-index: 999999;
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
     color: #386798;
   }
+
