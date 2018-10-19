@@ -27,6 +27,10 @@ hr {
   background-color: #386798 !important;
 }
 
+.bg-secondary {
+  background-color: #3e4470 !important;
+}
+
 .img_container, .img_container2 {
     text-align: center;
 }
