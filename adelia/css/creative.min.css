@@ -91,7 +91,7 @@ display: table; margin: 0 auto;
 .spinner {
   width: 40px;
   height: 40px;
-  background-color: #F05F40;
+  background-color: #386798;
 
   position: absolute;
   top: 48%;
@@ -125,7 +125,7 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
-background-color: #386798;
+background-color:#3e4470;
 z-index: 999999;
 }
 
