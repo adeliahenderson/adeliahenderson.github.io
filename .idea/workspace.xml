@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23af1ace-3be7-40a5-846a-e4af7a3f12bf" name="Default" comment="" />
+    <list default="true" id="23af1ace-3be7-40a5-846a-e4af7a3f12bf" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,25 +15,27 @@
     <session id="-514715308">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.5" value="4" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="1117" />
+          <entry key="css" value="1" />
+          <entry key="html" value="1374" />
           <entry key="json" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="1117" />
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="1374" />
           <entry key="JSON" value="12" />
         </counts>
       </usages-collector>
@@ -53,10 +58,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="105" column="40" selection-start-line="105" selection-start-column="34" selection-end-line="105" selection-end-column="40" />
+            <state relative-caret-position="380">
+              <caret line="159" column="31" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
               <folding>
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -68,19 +72,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/adelia/css/creative.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/adelia/css/creative.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1905">
-              <caret line="127" column="24" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="24" />
+            <state relative-caret-position="467">
+              <caret line="157" column="22" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -96,7 +91,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>adelia.png</find>
       <find>header.j</find>
       <find>blue</find>
       <find>wood</find>
@@ -126,6 +120,7 @@
       <find>cryptil</find>
       <find>bootstrap</find>
       <find>depen</find>
+      <find>skills</find>
     </findStrings>
     <replaceStrings>
       <replace>adelia</replace>
@@ -152,8 +147,8 @@
         <option value="$PROJECT_DIR$/startbootstrap-creative-gh-pages/css/creative.min.css" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/adelia/css/creative.css" />
-        <option value="$PROJECT_DIR$/adelia/css/creative.min.css" />
         <option value="$PROJECT_DIR$/adelia/package-lock.json" />
+        <option value="$PROJECT_DIR$/adelia/css/creative.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -170,8 +165,8 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="54" />
+    <option name="x" value="153" />
+    <option name="y" value="89" />
     <option name="width" value="1260" />
     <option name="height" value="729" />
   </component>
@@ -197,7 +192,35 @@
               <item name="adeliahenderson.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="adeliahenderson.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="adelia" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeliahenderson.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeliahenderson.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="adelia" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="creative.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="adeliahenderson.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeliahenderson.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="adelia" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeliahenderson.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeliahenderson.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="adelia" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="adeliahenderson.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="adeliahenderson.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="adelia" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+              <item name="thumbnails" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,11 +273,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="106" y="54" width="1260" height="729" extended-state="0" />
+    <frame x="153" y="89" width="1260" height="729" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8383046" visible="true" weight="0.28078818" />
-      <window_info active="true" id="Structure" order="1" sideWeight="0.16169545" side_tool="true" visible="true" weight="0.28078818" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.83516484" visible="true" weight="0.28899837" />
+      <window_info id="Structure" order="1" sideWeight="0.16483517" side_tool="true" visible="true" weight="0.28899837" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
@@ -337,21 +360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="105" column="40" selection-start-line="105" selection-start-column="34" selection-end-line="105" selection-end-column="40" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/adelia/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -361,8 +369,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/adelia/css/creative.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1905">
-          <caret line="127" column="24" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="24" />
+        <state relative-caret-position="467">
+          <caret line="157" column="22" selection-start-line="157" selection-start-column="22" selection-end-line="157" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="159" column="31" selection-start-line="159" selection-start-column="31" selection-end-line="159" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
