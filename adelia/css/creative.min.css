@@ -153,3 +153,7 @@ z-index: 999999;
   border-color: #3e4470;
 }
 
+img.rounded-corners {
+
+  border-radius: 30px;
+}
