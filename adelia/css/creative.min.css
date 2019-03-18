@@ -42,15 +42,15 @@ hr {
 }
 
 .fa-linkedin {
-  color: #7B506F;
+  color: #FFAD5B;
 }
 
 .fa-envelope-o {
-  color: #7B506F;
+  color: #FFAD5B;
 }
 
 .fa-phone-square {
-  color: #7B506F;
+  color: #FFAD5B;
 }
 
 
@@ -172,8 +172,8 @@ z-index: 999999;
 
 
 .btn-primary {
-  background-color: #2D3142;
-  border-color: #2D3142;
+  background-color: #7B506F;
+  border-color: #7B506F;
 }
 
 img.rounded-corners {
