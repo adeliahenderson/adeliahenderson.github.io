@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23af1ace-3be7-40a5-846a-e4af7a3f12bf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,22 +20,22 @@
           <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="8" />
-          <entry key="project.open.time.6" value="9" />
+          <entry key="project.open.time.6" value="10" />
           <entry key="project.open.time.7" value="3" />
-          <entry key="project.opened" value="32" />
+          <entry key="project.opened" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="357" />
-          <entry key="html" value="2199" />
+          <entry key="html" value="2244" />
           <entry key="json" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="357" />
-          <entry key="HTML" value="2199" />
+          <entry key="HTML" value="2244" />
           <entry key="JSON" value="12" />
         </counts>
       </usages-collector>
@@ -81,7 +80,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="158">
@@ -95,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="60" column="58" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="86" />
+            <state relative-caret-position="410">
+              <caret line="293" column="16" selection-start-line="293" selection-start-column="16" selection-end-line="293" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -198,12 +197,12 @@
         <option value="$PROJECT_DIR$/adelia/html/portfolio.html" />
         <option value="$PROJECT_DIR$/adelia/templates/portfolio.html" />
         <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/skills.html" />
         <option value="$PROJECT_DIR$/adelia/css/creative.css" />
         <option value="$PROJECT_DIR$/adelia/css/creative.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
       </list>
     </option>
   </component>
@@ -297,8 +296,8 @@
     <frame x="92" y="51" width="1260" height="729" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8100471" visible="true" weight="0.3678161" />
-      <window_info id="Structure" order="1" sideWeight="0.18995291" side_tool="true" visible="true" weight="0.3678161" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8084772" visible="true" weight="0.37356323" />
+      <window_info id="Structure" order="1" sideWeight="0.19152276" side_tool="true" visible="true" weight="0.37356323" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32911393" />
@@ -401,13 +400,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="60" column="58" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/skills.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1785">
@@ -436,6 +428,13 @@
             <element signature="n#style#0;n#p#1;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#2;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="293" column="16" selection-start-line="293" selection-start-column="16" selection-end-line="293" selection-end-column="16" />
         </state>
       </provider>
     </entry>
