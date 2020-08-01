@@ -4,8 +4,8 @@ a{color:#f05f40;-webkit-transition:all .2s;-moz-transition:all .2s;transition:al
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("../img/adeliaheader.png");
-  background-position: center center;
+  background-image: url("../img/adeliaheaderdesk.png");
+  background-position: down right;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -197,3 +197,16 @@ img.rounded-corners {
   }
 
 
+header.masthead h1 {
+    font-family: 'Playfair Display Bold';
+  font-size: 7rem;
+    margin-left: -9rem;
+    padding-top: 12rem;
+}
+
+h7 {
+    font-size: 31px;
+    font-family:'Playfair Display'
+    font-family: "Playfair Display Bold","Open Sans", "Montserrat";
+    margin-left: -19rem;
+}
