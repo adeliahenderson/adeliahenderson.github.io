@@ -47,7 +47,7 @@ hr {
 }
 
 .bg-primary {
-  background-color: #28689c !important;
+  background-color: #596681 !important;
 }
 
 .bg-secondary {
@@ -230,4 +230,8 @@ h2 {
     font-size: 31px;
     font-family: "Playfair Display Bold","Open Sans", "Montserrat";
     margin-left: -19rem;
+}
+
+span {
+    background-color: white;
 }
