@@ -30,7 +30,7 @@ header {
 
 
 a {
-  color: #FFAD5B;
+  color: #EC9486;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s;
@@ -43,11 +43,11 @@ a:hover {
 hr {
   max-width: 70px;
   border-width: 5px;
-  border-color: #28689C;
+  border-color: #EC9486;
 }
 
 .bg-primary {
-  background-color: #596681 !important;
+  background-color: #586681 !important;
 }
 
 .bg-secondary {
@@ -59,37 +59,33 @@ hr {
 }
 
 .fa-linkedin {
-  color: #FFAD5B;
+  color: #2E9C94;
 }
 
 .fa-envelope-o {
-  color: #FFAD5B;
+  color: #2E9C94;
 }
 
 .fa-phone-square {
-  color: #FFAD5B;
+  color: #2E9C94;
 }
 
 
-.fa-newspaper-o {
-    color: #7B506F;
-}
-
-.fa-calendar-check-o {
-   color: #7B506F !important;
+.fa-wifi {
+   color: #2E9C94 !important;
 }
 
 .fa-camera {
-  color: #7B506F !important;
+  color: #2E9C94 !important;
 }
 
 
 .fa-desktop {
-    color: #7B506F !important;
+    color: #2E9C94 !important;
 }
 
 .fa-newspaper-o {
-   color: #7B506F !important;
+   color: #2E9C94 !important;
 }
 
 
@@ -120,7 +116,7 @@ button {
 
 .btn-lg:hover, .btn-lg:focus, .btn-lg:active {
   color: #fff;
-  background-color: #FFAD5B !important;
+  background-color: #EC9486 !important;
 }
 
 .btn-lg{
@@ -131,7 +127,7 @@ display: table; margin: 0 auto;
 .spinner {
   width: 40px;
   height: 40px;
-  background-color: #386798;
+  background-color: #EC9486;
 
   position: absolute;
   top: 48%;
@@ -165,7 +161,7 @@ top: 0;
 left: 0;
 right: 0;
 bottom: 0;
-background-color:#3e4470;
+background-color:#586681;
 z-index: 999999;
 }
 
@@ -173,7 +169,7 @@ z-index: 999999;
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
 #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-  color: #28689C;
+  color: #EC9486;
 }
 
 #mainNav .navbar-nav > li.nav-item > a.nav-link.active,
@@ -184,13 +180,13 @@ z-index: 999999;
 
  #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:hover,
   #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-    color: #28689C;
+    color: #EC9486;
   }
 
 
 .btn-primary {
-  background-color: #7B506F;
-  border-color: #7B506F;
+  background-color: #586681;
+  border-color: #586681;
 }
 
 img.rounded-corners {
@@ -200,11 +196,11 @@ img.rounded-corners {
 
 
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #FFAD5B;
+  color: #EC9486;
 }
 
 #mainNav.navbar-shrink .navbar-brand {
-    color: #FFAD5B;
+    color: #EC9486;
   }
 
  #mainNav.navbar-shrink .navbar-nav > li.nav-item > a.nav-link,
